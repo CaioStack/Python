@@ -1,6 +1,6 @@
 # Crie uma função chamada mensagem_personalizada que recebe o
 # nome de uma pessoa como argumento e retorna uma mensagem de
-# saudação personalizada, como "Olá, [Nome]! Como você está?".
+# saudação personalizada, como "Olá, (Nome)! Como você está?".
 # Peça ao usuário para inserir seu nome e exiba a mensagem.
 
 def mensagem_personalizada(nome):
