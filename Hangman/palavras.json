@@ -1,0 +1,140 @@
+{
+  "animais": {
+    "facil": [
+      {"palavra": "gato", "dica": "Animal doméstico que mia"},
+      {"palavra": "pato", "dica": "Ave que faz quá quá"},
+      {"palavra": "rato", "dica": "Roedor pequeno de estimação ou praga"},
+      {"palavra": "lobo", "dica": "Animal selvagem parente do cachorro"},
+      {"palavra": "urso", "dica": "Grande mamífero que hiberna no inverno"}
+    ],
+    "medio": [
+      {"palavra": "girafa", "dica": "Animal com o pescoço mais longo do mundo"},
+      {"palavra": "elefante", "dica": "Maior animal terrestre do planeta"},
+      {"palavra": "tigre", "dica": "Felino listrado da Ásia"},
+      {"palavra": "canguru", "dica": "Animal australiano que carrega filhote na bolsa"},
+      {"palavra": "pinguim", "dica": "Ave que não voa e vive no frio"}
+    ],
+    "dificil": [
+      {"palavra": "ornitorrinco", "dica": "Mamífero australiano que bota ovos e tem bico de pato"},
+      {"palavra": "chimpanze", "dica": "Primata africano geneticamente próximo aos humanos"},
+      {"palavra": "camaleao", "dica": "Réptil famoso por mudar de cor"},
+      {"palavra": "rinoceronte", "dica": "Grande mamífero com chifre no focinho"},
+      {"palavra": "crocodilo", "dica": "Réptil aquático com mandíbula poderosa"}
+    ]
+  },
+  "comidas": {
+    "facil": [
+      {"palavra": "arroz", "dica": "Acompanha feijão no prato brasileiro"},
+      {"palavra": "bolo", "dica": "Sobremesa típica de aniversário"},
+      {"palavra": "sopa", "dica": "Prato quente servido em tigela"},
+      {"palavra": "ovo", "dica": "Alimento que pode ser estrelado ou cozido"},
+      {"palavra": "paes", "dica": "Alimento feito de farinha e fermento"}
+    ],
+    "medio": [
+      {"palavra": "lasanha", "dica": "Massa italiana em camadas com molho"},
+      {"palavra": "hamburguer", "dica": "Lanche famoso de carne entre dois pães"},
+      {"palavra": "panqueca", "dica": "Massa fina servida com recheio doce ou salgado"},
+      {"palavra": "coxinha", "dica": "Salgado brasileiro em forma de coxa de frango"},
+      {"palavra": "brigadeiro", "dica": "Doce brasileiro de chocolate em formato de bolinha"}
+    ],
+    "dificil": [
+      {"palavra": "strogonoff", "dica": "Prato cremoso de origem russa com carne e champignon"},
+      {"palavra": "parmegiana", "dica": "Bife empanado coberto com molho de tomate e queijo"},
+      {"palavra": "carpaccio", "dica": "Entrada italiana de carne crua fatiada finamente"},
+      {"palavra": "escabeche", "dica": "Preparo de peixe ou legumes em vinagre e temperos"},
+      {"palavra": "tiramisu", "dica": "Sobremesa italiana com café, mascarpone e cacau"}
+    ]
+  },
+  "tecnologia": {
+    "facil": [
+      {"palavra": "mouse", "dica": "Periférico usado para mover o cursor na tela"},
+      {"palavra": "tela", "dica": "Superfície onde você vê a imagem do computador"},
+      {"palavra": "cabo", "dica": "Fio que conecta dispositivos eletrônicos"},
+      {"palavra": "chip", "dica": "Componente eletrônico minúsculo dentro dos dispositivos"},
+      {"palavra": "wifi", "dica": "Tecnologia de conexão sem fio à internet"}
+    ],
+    "medio": [
+      {"palavra": "internet", "dica": "Rede global de computadores interconectados"},
+      {"palavra": "software", "dica": "Conjunto de programas e sistemas de um computador"},
+      {"palavra": "hardware", "dica": "Componentes físicos de um computador"},
+      {"palavra": "servidor", "dica": "Computador que fornece serviços para outros na rede"},
+      {"palavra": "protocolo", "dica": "Conjunto de regras para comunicação entre computadores"}
+    ],
+    "dificil": [
+      {"palavra": "programacao", "dica": "Processo de escrever instruções para um computador executar"},
+      {"palavra": "algoritmo", "dica": "Sequência de passos para resolver um problema computacional"},
+      {"palavra": "criptografia", "dica": "Técnica de codificar informações para proteger dados"},
+      {"palavra": "compilador", "dica": "Programa que traduz código-fonte para linguagem de máquina"},
+      {"palavra": "recursividade", "dica": "Quando uma função chama a si mesma para resolver um problema"}
+    ]
+  },
+  "paises": {
+    "facil": [
+      {"palavra": "brasil", "dica": "Maior país da América do Sul"},
+      {"palavra": "china", "dica": "País mais populoso do mundo"},
+      {"palavra": "cuba", "dica": "Ilha caribenha de regime socialista"},
+      {"palavra": "peru", "dica": "País sul-americano lar de Machu Picchu"},
+      {"palavra": "chile", "dica": "País sul-americano em forma de faixa estreita"}
+    ],
+    "medio": [
+      {"palavra": "australia", "dica": "País-continente no hemisfério sul"},
+      {"palavra": "portugal", "dica": "País europeu que colonizou o Brasil"},
+      {"palavra": "argentina", "dica": "País vizinho do Brasil famoso pelo tango"},
+      {"palavra": "holanda", "dica": "País europeu famoso por tulipas e moinhos de vento"},
+      {"palavra": "noruega", "dica": "País escandinavo famoso pela aurora boreal"}
+    ],
+    "dificil": [
+      {"palavra": "azerbaijao", "dica": "País no Cáucaso entre Europa e Ásia"},
+      {"palavra": "quirguistao", "dica": "País montanhoso da Ásia Central"},
+      {"palavra": "mozambique", "dica": "País africano banhado pelo Oceano Índico"},
+      {"palavra": "liechtenstein", "dica": "Um dos menores países do mundo, na Europa Central"},
+      {"palavra": "luxemburgo", "dica": "Pequeno país europeu com um dos maiores PIBs per capita"}
+    ]
+  },
+  "esportes": {
+    "facil": [
+      {"palavra": "futebol", "dica": "Esporte mais popular do Brasil"},
+      {"palavra": "tenis", "dica": "Esporte com raquete e bolinha em quadra"},
+      {"palavra": "boxe", "dica": "Esporte de combate com luvas"},
+      {"palavra": "golfe", "dica": "Esporte onde se bate em uma bolinha com tacos"},
+      {"palavra": "surfe", "dica": "Esporte praticado em ondas do mar"}
+    ],
+    "medio": [
+      {"palavra": "basquete", "dica": "Esporte com cesta e bola laranja"},
+      {"palavra": "voleibol", "dica": "Esporte de rede jogado em quadra ou areia"},
+      {"palavra": "natacao", "dica": "Esporte praticado dentro da água"},
+      {"palavra": "ginastica", "dica": "Esporte olímpico com movimentos acrobáticos"},
+      {"palavra": "ciclismo", "dica": "Esporte praticado sobre duas rodas"}
+    ],
+    "dificil": [
+      {"palavra": "atletismo", "dica": "Modalidade olímpica que inclui corridas, saltos e lançamentos"},
+      {"palavra": "esgrima", "dica": "Esporte de combate com espadas e trajes especiais"},
+      {"palavra": "pentatlo", "dica": "Competição olímpica com cinco modalidades diferentes"},
+      {"palavra": "halterofilismo", "dica": "Esporte olímpico de levantamento de peso"},
+      {"palavra": "paraglider", "dica": "Esporte aéreo de voo livre com asa flexível"}
+    ]
+  },
+  "profissoes": {
+    "facil": [
+      {"palavra": "medico", "dica": "Profissional que cuida da saúde das pessoas"},
+      {"palavra": "juiz", "dica": "Profissional que aplica a lei nos tribunais"},
+      {"palavra": "chef", "dica": "Profissional especialista em cozinha e gastronomia"},
+      {"palavra": "ator", "dica": "Profissional que interpreta personagens em filmes ou teatro"},
+      {"palavra": "piloto", "dica": "Profissional que comanda aeronaves"}
+    ],
+    "medio": [
+      {"palavra": "arquiteto", "dica": "Profissional que projeta edificações e espaços"},
+      {"palavra": "biólogo", "dica": "Cientista que estuda os seres vivos"},
+      {"palavra": "dentista", "dica": "Profissional especialista em saúde bucal"},
+      {"palavra": "jornalista", "dica": "Profissional que investiga e divulga notícias"},
+      {"palavra": "sociologo", "dica": "Cientista que estuda a sociedade e relações humanas"}
+    ],
+    "dificil": [
+      {"palavra": "fonoaudiologo", "dica": "Especialista em distúrbios da fala e audição"},
+      {"palavra": "oftalmologista", "dica": "Médico especialista em doenças dos olhos"},
+      {"palavra": "cardiologista", "dica": "Médico especialista em doenças do coração"},
+      {"palavra": "anestesiologista", "dica": "Médico responsável pela anestesia em cirurgias"},
+      {"palavra": "neuropsicólogo", "dica": "Especialista em relações entre cérebro e comportamento"}
+    ]
+  }
+}
