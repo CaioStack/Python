@@ -76,7 +76,7 @@ print(frase.replace("banana", "manga"))
 
 # Dividir e juntar
 csv = "Ana,Bruno,Carla,Diego"
-lista = csv.split(",")           # divide: ['Ana', 'Bruno', 'Carla', 'Diego']
+lista = csv.split(",")          # divide: ['Ana', 'Bruno', 'Carla', 'Diego']
 print(lista)
 
 juntado = " | ".join(lista)     # junta: 'Ana | Bruno | Carla | Diego'
