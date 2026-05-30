@@ -1,7 +1,7 @@
 # 🐍 Guia de Estudos Python
 
 Este repositório contém arquivos de estudo organizados por tema,
-com explicações em comentários e exercícios para cada conteúdo.
+com explicações e exercícios para cada conteúdo.
 
 ---
 
